@@ -1,4 +1,4 @@
-baseurl                 = "https://hungom.github.io/om-s--blog/"               # Your domain name. Must end with "/"
+baseurl                 = "https://hungom.github.io/om-s--blog/docs"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Call me Sam"
 publishDir				= "docs"
@@ -22,14 +22,14 @@ pygmentsCodefences      = true
     primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
-    link = "/posts"
+    link = "/om-s--blog/docs/posts"
     text = "writing"
 
 [[params.mainMenu]]
-    link = "/gallery"
+    link = "/om-s--blog/docs/gallery"
     text = "gallery"
 
 [[params.mainMenu]]
-    link = "/about"
+    link = "/om-s--blog/docs/about"
     text = "who is sam?"
     
