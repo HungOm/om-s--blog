@@ -1,4 +1,4 @@
-baseurl                 = "https://hungom.github.io/om-s--blog/docs"               # Your domain name. Must end with "/"
+baseurl                 = "https://hungom.github.io/om-s--blog/docs/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Call me Sam"
 publishDir			    = "docs"
